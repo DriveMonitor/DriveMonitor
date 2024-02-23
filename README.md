@@ -15,7 +15,9 @@ Prerequisites
     OAuth 2.0 Client IDs configured in your Google Cloud Project
 
 Installation
-    git clone git remote add origin https://github.com/DriveMonitor/DriveMonitor.git
+
+    git clone https://github.com/DriveMonitor/DriveMonitor.git
+    
     pip3 install -r requirements.txt
 
 Usage
